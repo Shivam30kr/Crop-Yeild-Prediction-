@@ -5,6 +5,7 @@ Machine learning algorithms are trained on historical data to  make accurate pre
 The use of machine learning in agriculture has become  increasingly popular in recent years. It has the potential to  revolutionize the way we grow crops and increase food  production to meet the growing demand.
 
 Three main algorithms were implemented and compared for their predictive performance:
+
 Decision Tree Regression: This algorithm constructs a tree-like model of decisions based on the features of the data. It partitions the data into subsets based on the values of the input features and predicts the target variable for each subset.
 
 Gradient Boosting Regression: This ensemble learning technique builds multiple decision trees sequentially, with each tree correcting errors of its predecessor. It combines the predictive power of multiple weak learners to create a strong predictive model.
